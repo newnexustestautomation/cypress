@@ -1,4 +1,4 @@
-Feature: The Facebook
+Feature: The Google
 
   I want to open a social network page
 
