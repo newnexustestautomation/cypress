@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/newnexustestautomation/cypress#readme",
   "devDependencies": {
-    "cypress": "^3.1.0"
+    "cypress": "^3.1.0",
+    "cypress-cucumber-preprocessor": "^1.5.1"
+  },
+  "cypress-cucumber-preprocessor": {
+    "step_definitions": "cypress/support/step_definitions/"
   }
 }
